@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.3.1
+wersja=2.4
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=1756971F4A57A119C7B408FF2DEBD57F52C5B69F1D261B7826E12E97400D9E71
-opis=Poprawki niezawodnosci i bezpieczenstwa: ponawianie pobierania wynikow przy blokadzie e-Zamowien, osobny folder tymczasowy, limity rozpakowywania ZIP, weryfikacja podpisu zapamietanej aktualizacji.
-podpis=wbn4oCaAudh4kEoUAZT9EA3LWkV4nlC4KP8KHYqzzfrF56vif1yknIDjLaxBYy1igIiCi1RcbfOcrbhSOui4rg==
+sha256=9EFCEE01045BB0E0085101ECA9798C7FFC1312BB01627362B112C969C780C17F
+opis=Ochrona Twoich poprawek (poprzednie wersje wycen i ofert), zakladka Moje strony (Logintrade, BIP szkol, platformy - takze przetargi spoza BZP), automatyczne pobieranie dokumentow z kolejnych stron, wyszukiwarka przetargow.
+podpis=XM8I8pAfcX1s0e7ojosSvG43xYvBANBsaj+KDqZvTxRIIJOlHNAUFog6pFg8UNrw8IaAo7NI7z9xzeRojrCs8g==
