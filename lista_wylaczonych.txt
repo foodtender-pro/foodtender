@@ -1,4 +1,4 @@
 PROFOOD-LISTA v1
 data=2026-11-15
-wylaczone=
-podpis=saBG+s92bM7I0UKNWJK71clUlmuEm33CZC3KaB6oWCNS92wGvOmFJNlkO66Ql5AGZP9cKsIRnyGP0Pwz0dl+wQ==
+wylaczone=2
+podpis=Uln47iVGS6J5UGFn/KpR7AqzHbKNJSygolQFWSzNn530pIgS5zN/c6XAhOCekrnKdhdP9mX9uca3rppsSs+2Ig==
