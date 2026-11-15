@@ -1,0 +1,6 @@
+FOODTENDER-AKTUALIZACJA v1
+wersja=2.2
+plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
+sha256=704D364C8405D19F056C57F734CAAD8541F85FD6E5114D0035C5B6CBD07F5A59
+opis=Wyniki i konkurencja: pobieranie wynikow z zakresu dat, analiza, czyszczenie tabeli.
+podpis=VRnnBQWDsgAAJP/qgueoC0Rlwun/gFnU1QYeijfTiwndfSplKEytsO/yNyDcSa3nYf4KxDSj2zWvK0kThlcuwg==
