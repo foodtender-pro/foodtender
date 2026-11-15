@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.4
+wersja=2.4.2
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=9EFCEE01045BB0E0085101ECA9798C7FFC1312BB01627362B112C969C780C17F
-opis=Ochrona Twoich poprawek (poprzednie wersje wycen i ofert), zakladka Moje strony (Logintrade, BIP szkol, platformy - takze przetargi spoza BZP), automatyczne pobieranie dokumentow z kolejnych stron, wyszukiwarka przetargow.
-podpis=XM8I8pAfcX1s0e7ojosSvG43xYvBANBsaj+KDqZvTxRIIJOlHNAUFog6pFg8UNrw8IaAo7NI7z9xzeRojrCs8g==
+sha256=82A67066A05B4A7C67B0C074DA09DF16FE7AD45E122F503E24D09C58575056ED
+opis=Dokladniejsza wycena: jednostka miary z podnaglowka tabeli, lepsze rozpoznawanie przypraw, przetworow i garmazerki, przeliczanie opakowan jak w recznie wypelnianych przetargach, puste pole zamiast zlego zamiennika gdy towaru nie ma na stanie. Pliki wypelnione bez marzy w nazwie.
+podpis=T669FQxLMGCNVjrANN867+Ew7GFfVYUC9cyhT2rQek+aLqpdyiSOe1liZQH4jSy9U91rXYj1v9M0gPEK0bK33A==
