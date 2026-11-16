@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.5
+wersja=2.5.1
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=092BD86C113DB1E41F2356C30ED5B5AF281CA0829AF5F39E3A25A44985459197
-opis=Wycena wg nazwy i gramatury (bez zgadywania zamiennikow), fioletowe pola dla pozycji bez ceny, statusy przetargow pod prawym przyciskiem myszy (wypelniony recznie, wyslany, do poprawy, odlozony), nowy uklad zakladki Wyniki.
-podpis=5dfedWcrLOmtN5H4cM0oZLhNW/90MhoiGQrjBikRmlC4Ln2AWPUnNfRLIEUolp0Zd0M3edjttQCyIyEjq8bCNw==
+sha256=1103017FCEAB04A7A9A867D96C9E7CCF5500A0564FB5400F43E5BF20B0C96507
+opis=Przelicz jeszcze raz - pojedynczy przetarg od nowa wg aktualnych zasad i cennika (prawy przycisk na liscie przetargow). Naprawione okno Szczegoly: kwota zamawiajacego, ceny z otwarcia ofert, odswiezanie skrotu SWZ.
+podpis=X+28Ju3/868rSU6xim5Hx5JnKucLZSwRlKtsndtmLzHi1NwkGj+ug8I5KY5+eo9TuvBpgZM2PPcyl2AEPLsW1g==
