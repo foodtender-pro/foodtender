@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.7
+wersja=2.7.1
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=A58ECC89F95FFCD19B84AAEC8E86720A1E8C1AAA5EFC3C9F12D1A830C12196E7
-opis=Nowe zakladki: Popraw ceny (wybor towaru dla zoltych i pustych pozycji, zapamietywany), Do zamowienia (towary bez stanu potrzebne w przetargach: mrozonki, ryby, nabial, rozne spozywcze; eksport do Excela), Kontrola cen (zmiany cen w cenniku, kontrola oferty przed wyslaniem). Podpowiedz marzy wg asortymentu w Wynikach. Kryteria oceny ofert z SWZ (kolumna i menu pod prawym przyciskiem).
-podpis=J9QXYzaqzBfopb4NDj/SgbPxifkpQXHOnYS2QU/m0VQxtbGD8XVCP1a3V3JkPUHV441u7KlD2wDDtfJHq5Ua5g==
+sha256=F26C40EC6ED4629DAA1D0932E460547AC7B2C5D308D68B71D814C4C49F8093E0
+opis=Poprawny odczyt formularzy PDF z osobnymi kolumnami Nazwa artykulu i Opis (nazwa produktu nie ginie w opisie). Zawiera tez nowosci 2.7: Popraw ceny, Do zamowienia, Kontrola cen, podpowiedz marzy, kryteria oceny z SWZ.
+podpis=zsF/hESh77I8yweSENjPtSl12F6uTmsgeRYIzwuvwWPnQQj6aFqgaxYFsBvhw9BeQmRMloo0+GlnnyVZoaoMew==
