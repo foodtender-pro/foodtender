@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.6
+wersja=2.6.2
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=D15DC6CCF62EB749CE8F092E00F9AB93B9A77C508968E8BCA825F9B54E9BF2BA
-opis=Zaznaczanie wielu przetargow (zbiorowy status i przeliczanie po kolei), status Przeliczone ponownie. Dokladniejsze ceny: opakowania detaliczne w pozycjach na kg, przyprawy z malych paczek i zawsze najtansze, tolerancja gramatury (30 g -> 20 g). Wiecej dopasowan z historii.
-podpis=uW25RsvpAITOVwgP7yF97CLOK9Xd020bvKAA9aoiZeIZCXrqg0v5qPFg5EhTOZggUEliD/dYNGHaPR7o3cvbcg==
+sha256=E57BFE9C37D793DBA069C451413904297D9C37E0F67FD22386709143CA68BE50
+opis=Czesci przetargu "nie startujemy" (prawy przycisk - Czesci przetargu), pomijane w wycenie i licznikach. Dokladniejsze ceny: ryby (dorsz czarniak, miruna 115-175 / 175+), desery bez cukru, wedges, mieszanka kompotowa, wloszczyzna 4-skl., woda zrodlana = mineralna, tanszy z rownych towarow, kontrola wagi towaru bez gramatury.
+podpis=pq+JPbz/OvzocT+EdrGMjBaCfnMVuKaM50u1EUWrCC+jsHapDI/KLEcoossSuuttpbVOVlo9+r9cTfMgpFStgA==
