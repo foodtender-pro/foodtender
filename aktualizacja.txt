@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.4.2
+wersja=2.5
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=82A67066A05B4A7C67B0C074DA09DF16FE7AD45E122F503E24D09C58575056ED
-opis=Dokladniejsza wycena: jednostka miary z podnaglowka tabeli, lepsze rozpoznawanie przypraw, przetworow i garmazerki, przeliczanie opakowan jak w recznie wypelnianych przetargach, puste pole zamiast zlego zamiennika gdy towaru nie ma na stanie. Pliki wypelnione bez marzy w nazwie.
-podpis=T669FQxLMGCNVjrANN867+Ew7GFfVYUC9cyhT2rQek+aLqpdyiSOe1liZQH4jSy9U91rXYj1v9M0gPEK0bK33A==
+sha256=092BD86C113DB1E41F2356C30ED5B5AF281CA0829AF5F39E3A25A44985459197
+opis=Wycena wg nazwy i gramatury (bez zgadywania zamiennikow), fioletowe pola dla pozycji bez ceny, statusy przetargow pod prawym przyciskiem myszy (wypelniony recznie, wyslany, do poprawy, odlozony), nowy uklad zakladki Wyniki.
+podpis=5dfedWcrLOmtN5H4cM0oZLhNW/90MhoiGQrjBikRmlC4Ln2AWPUnNfRLIEUolp0Zd0M3edjttQCyIyEjq8bCNw==
