@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.6.2
+wersja=2.7
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=E57BFE9C37D793DBA069C451413904297D9C37E0F67FD22386709143CA68BE50
-opis=Czesci przetargu "nie startujemy" (prawy przycisk - Czesci przetargu), pomijane w wycenie i licznikach. Dokladniejsze ceny: ryby (dorsz czarniak, miruna 115-175 / 175+), desery bez cukru, wedges, mieszanka kompotowa, wloszczyzna 4-skl., woda zrodlana = mineralna, tanszy z rownych towarow, kontrola wagi towaru bez gramatury.
-podpis=pq+JPbz/OvzocT+EdrGMjBaCfnMVuKaM50u1EUWrCC+jsHapDI/KLEcoossSuuttpbVOVlo9+r9cTfMgpFStgA==
+sha256=A58ECC89F95FFCD19B84AAEC8E86720A1E8C1AAA5EFC3C9F12D1A830C12196E7
+opis=Nowe zakladki: Popraw ceny (wybor towaru dla zoltych i pustych pozycji, zapamietywany), Do zamowienia (towary bez stanu potrzebne w przetargach: mrozonki, ryby, nabial, rozne spozywcze; eksport do Excela), Kontrola cen (zmiany cen w cenniku, kontrola oferty przed wyslaniem). Podpowiedz marzy wg asortymentu w Wynikach. Kryteria oceny ofert z SWZ (kolumna i menu pod prawym przyciskiem).
+podpis=J9QXYzaqzBfopb4NDj/SgbPxifkpQXHOnYS2QU/m0VQxtbGD8XVCP1a3V3JkPUHV441u7KlD2wDDtfJHq5Ua5g==
