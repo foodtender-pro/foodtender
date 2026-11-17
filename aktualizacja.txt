@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.9.1
+wersja=2.9.2
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=6EA6D55B1A25102875A0BCF367CF58E113E6B3DDC892FD741507D3C763198164
-opis=Poprawka wygladu: w Ofertach do PDF napis Z zaznaczonymi nie zaslania juz listy akcji. Zawiera wszystko z 2.9 (okno Analiza z wykresami i symulator marzy).
-podpis=gzhSV5fxShFEApONM6iY/UmqACdgvxCSyT2Khk0XltA795W2SdzHY3RaTaZc7Bm5cAz6U8SRQcnWnihcurffzw==
+sha256=366CDB6CE6097574FD1A3E28D69FF352A2D8087C3EFEE709A84C84C1CD38BE6E
+opis=Aktualizacja pamieci dopasowan: nowe i poprawione dopasowania towarow trafiaja teraz do programu przy kazdej aktualizacji (Twoje reczne wybory z Popraw ceny zostaja). Zawiera tez okno Analiza z wykresami i symulator marzy.
+podpis=n3MeD6/I2uuTdFWDSn1xbEhXwpTMrYnrLQWRkrQzxYgFuBLHM0060/Y5+pij2L5fhy6KiDe6Zm1Jn4nDoAtXRQ==
