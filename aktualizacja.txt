@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.10.3
+wersja=2.10.4
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=22D6E1DAF08EB38584D54A5F6A86FBDE1CCE66981947142E9630FAB596896ED5
-opis=Ekran powitalny od razu po dwukliku, w osobnym watku, plynny przez cale ladowanie (min 5 s)
-podpis=EymaWqvETJLiOWzFjfRwqTNZQ4qU2xcaSWrrQ32L4yDu5lav+dZsQpUkxY7RRsyFs/D5k9tjvqrz5+u4dsDsmQ==
+sha256=ADC6FEF0ED74845147CB6E018EF5645BC434E3862D70E197B8CCAA3CE7084657
+opis=Menu przy przyciskach i przy przetargu, Popraw ceny - przewijanie calej strony, Twoje wybory zawsze wazne (przeliczniki), usuwanie przetargow nie rusza historii poprawek, nowe dopasowania
+podpis=3TPJ3UpJ/0iwVqXbG5sJwgSRALFcUzT46xn94XpqKQZNHQg4eSqDOsjqoUV8XmG1R/g2Z0ApQZ3M4bqIL4lDvA==
