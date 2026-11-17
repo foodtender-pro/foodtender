@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.8
+wersja=2.8.1
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=D48473F94ADBD7135976F5F03F102968DD3B23B939AA4E26AE86DBDC75FAB17C
-opis=Prostszy program: menu w grupach i przycisk "Jak to dziala?" na kazdej zakladce. Nowe: Pulpit "Dzis do zrobienia", Archiwalne przetargi (kto wygrywal u zamawiajacego), Oferty do PDF, Realizacja umow (towary na miesiac), status Wygrany. Wyniki: nowy czytelny uklad, wyszukiwarka, wyniki takze z Twoich stron i platform.
-podpis=b0wUPQ1fVQ5c9AXj7B3p+zvKdKOtq30jLxUGoZh6kOgayKUQvS4SoUT1gMKkV6ccL/dFjxxQBM1d9m97udPgSg==
+sha256=36384659D4D906845E01D359DF7CA0796D69519B457083ECD24D4105B5C8CA92
+opis=Oferta: wybor przetargu z rozwijanej listy i wyszukiwarka. Z wersji 2.8: Prostszy program: menu w grupach i przycisk "Jak to dziala?" na kazdej zakladce. Nowe: Pulpit "Dzis do zrobienia", Archiwalne przetargi (kto wygrywal u zamawiajacego), Oferty do PDF, Realizacja umow (towary na miesiac), status Wygrany. Wyniki: nowy czytelny uklad, wyszukiwarka, wyniki takze z Twoich stron i platform.
+podpis=jDtAMaXNwfzkU+zbul4frRTQwyTD84buhkC6zxL+aOx4C58kXNKKjZyXTqxFTbmrK30D3UOhoItXu8GFkhWKMQ==
