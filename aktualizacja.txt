@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.8.3
+wersja=2.9
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=98571FFF98F12F4AA4830A8574612883E5CF4C929DCC0A718895CB4BD81BAFF4
-opis=Oferty do PDF: wyszukiwarka, filtry, zaznaczanie wielu przetargow i operacje masowe; przycisk Gotowe do wyslania (sprawdza komplet plikow, robi paczke PDF + ZIP). Oferta: filtr listy przetargow. Archiwalne: przycisk Analizuj (kto wygrywa, o ile przegrales, jaka marza). Poprawka przelicznika w Popraw ceny.
-podpis=Qckccmyp4Y8/iJhnHjTCil2ZJf0YmesPx/mL3aBEHYSyJ75mparkQ2mMtUXp7KqNJllnoBgxKYAQMGgjHO9nvg==
+sha256=0B005AA0DCDE20BA49BC93A8073BE787E6FE8613CB3E2FAF1F7E55BD07A04E86
+opis=Nowe okno Analiza z wykresami (Wyniki i Archiwalne): Twoja cena vs najtansza konkurencja, kto wygrywa, wyniki wg asortymentu, wybor zakresu i asortymentu, zapis do PNG. Symulator marzy: ile czesci wygralbys i ile zarobil przy innej marzy oraz przy jakiej marzy zysk bylby najwiekszy.
+podpis=cyzqCzy1eV7vfiHiddxFCQwwueN/HbJgmUFo1SQVVukcMi9lpfgNA1pzRS2UB8pdtiBhdR3U3Mq4VKK+ocNRZQ==
