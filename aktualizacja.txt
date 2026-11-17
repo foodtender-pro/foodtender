@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.9
+wersja=2.9.1
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=0B005AA0DCDE20BA49BC93A8073BE787E6FE8613CB3E2FAF1F7E55BD07A04E86
-opis=Nowe okno Analiza z wykresami (Wyniki i Archiwalne): Twoja cena vs najtansza konkurencja, kto wygrywa, wyniki wg asortymentu, wybor zakresu i asortymentu, zapis do PNG. Symulator marzy: ile czesci wygralbys i ile zarobil przy innej marzy oraz przy jakiej marzy zysk bylby najwiekszy.
-podpis=cyzqCzy1eV7vfiHiddxFCQwwueN/HbJgmUFo1SQVVukcMi9lpfgNA1pzRS2UB8pdtiBhdR3U3Mq4VKK+ocNRZQ==
+sha256=6EA6D55B1A25102875A0BCF367CF58E113E6B3DDC892FD741507D3C763198164
+opis=Poprawka wygladu: w Ofertach do PDF napis Z zaznaczonymi nie zaslania juz listy akcji. Zawiera wszystko z 2.9 (okno Analiza z wykresami i symulator marzy).
+podpis=gzhSV5fxShFEApONM6iY/UmqACdgvxCSyT2Khk0XltA795W2SdzHY3RaTaZc7Bm5cAz6U8SRQcnWnihcurffzw==
