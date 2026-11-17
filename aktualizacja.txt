@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.9.2
+wersja=2.10.0
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=366CDB6CE6097574FD1A3E28D69FF352A2D8087C3EFEE709A84C84C1CD38BE6E
-opis=Aktualizacja pamieci dopasowan: nowe i poprawione dopasowania towarow trafiaja teraz do programu przy kazdej aktualizacji (Twoje reczne wybory z Popraw ceny zostaja). Zawiera tez okno Analiza z wykresami i symulator marzy.
-podpis=n3MeD6/I2uuTdFWDSn1xbEhXwpTMrYnrLQWRkrQzxYgFuBLHM0060/Y5+pij2L5fhy6KiDe6Zm1Jn4nDoAtXRQ==
+sha256=3B15A0FCCCCC3CDB349A42BC0FF8072CB2ED33BE4BAB34EAB7D63B72C057D47C
+opis=Dopasowanie: towary kupione do 30 dni, gramatura z pelnej nazwy, dzial magazynu; Wyczysc wycene; Usun przetarg; jedno okno programu; formularze w LibreOffice
+podpis=cTxKtEeAeh6+F18scxFHeDRqzeP/CVlst9XPgZ83DXY6zmd+uQTocOY16X9+7uVFELgDN8aF8mumYHYKa4haRw==
