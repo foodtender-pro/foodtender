@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.13.2
+wersja=2.13.3
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=818284CC4BCD11ED358B7BD9456F012DBE13C1152699A9EF79923901F115416C
-opis=Wyniki: czyszczenie smieciowych kwot i nazw (takze zapisanych), usuwanie wyniku bez wplywu na statystyki, przywracanie; poprawki listy po terminie
-podpis=tPweJXCeoVR3U5HrYW7j/q4oXFII3m6TAxHKnq0WrIZ7P5FbIcE3SSQM5YJIPvPN06GYUIvPCqHQennZLKZA7w==
+sha256=ECE84E2764FE2DA856CF0B25E4188BF940E99C940A355781772C0C49076E8353
+opis=Pilna poprawka: wyniki znow sie pobieraja (blad Niezgodne typy argumentow w 2.13.2)
+podpis=OYJXeFHwG7ZGvhEi51yp7G16033WiFe7ADXfRTdGC+wHtnG02vjQIBmTeCTE8EwcGy4+nfVL5vUox7Tqji27jA==
