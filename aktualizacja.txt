@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.11.1
+wersja=2.13.0
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=2EBF71F343593F12BE5E9690FB585CF3E107780564904E8658267B50AD67513F
-opis=Pasek menu, Ustawienia programu (raport dnia, codzienny e-mail, telefon: nowe przetargi, wyniki i wygrane co 2h pon-pt 8-18), Reczna wycena z blokada, harmonogram pon-pt co 2h
-podpis=Kx2UZWwP3jyc9/mPiu90QD9v+oHzMDo+mcvjrtcsiFWP3ysIoGvXA3pA0JIosO9croohOlJbxkpl1GLy3wxkbA==
+sha256=A48FFF0A9FA86C425C6B3A798063904041A14864296C1910506E94E9C055321A
+opis=Chrupek pomocnik: podpowiedzi, przewodnik po zakladkach, reakcje na wyniki, spizarka w Popraw ceny; nowe haslo; poprawki: dodawanie uzytkownikow, foldery z nawiasem
+podpis=YV3wO7lprYY2PsJFgT1MGKv31XmSZ4M9DAHEt61UHOSjjNr591svQ5QC4LRl06IOJbH77iGW7CPDG/YrQZR6Pg==
