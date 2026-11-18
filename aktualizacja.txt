@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.13.3
+wersja=2.14.0
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=ECE84E2764FE2DA856CF0B25E4188BF940E99C940A355781772C0C49076E8353
-opis=Pilna poprawka: wyniki znow sie pobieraja (blad Niezgodne typy argumentow w 2.13.2)
-podpis=OYJXeFHwG7ZGvhEi51yp7G16033WiFe7ADXfRTdGC+wHtnG02vjQIBmTeCTE8EwcGy4+nfVL5vUox7Tqji27jA==
+sha256=6762801DA183CB42ADC1ABE8BFF0A6C5336C9C058246C80D4C4DF2E7710EE4E9
+opis=Nowa maskotka Teczka Tereska (kompletnosc oferty), Przetargi po terminie w ukladzie jak Wyniki, podpisy zakladek bez ucinania
+podpis=/pl4eKiUGaUB2Mzul4qnk1y4A28yu5SaK3E2V7E5w1Rt42VmWEvPwTDxegFan71EUS40PN7hEc0DKG4D9Bzl9Q==
