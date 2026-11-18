@@ -1,6 +1,6 @@
 FOODTENDER-AKTUALIZACJA v1
-wersja=2.13.0
+wersja=2.13.1
 plik=https://raw.githubusercontent.com/foodtender-pro/foodtender/main/FoodTenderPro_Setup.exe
-sha256=A48FFF0A9FA86C425C6B3A798063904041A14864296C1910506E94E9C055321A
-opis=Chrupek pomocnik: podpowiedzi, przewodnik po zakladkach, reakcje na wyniki, spizarka w Popraw ceny; nowe haslo; poprawki: dodawanie uzytkownikow, foldery z nawiasem
-podpis=YV3wO7lprYY2PsJFgT1MGKv31XmSZ4M9DAHEt61UHOSjjNr591svQ5QC4LRl06IOJbH77iGW7CPDG/YrQZR6Pg==
+sha256=D69B5B71E657BFA28FDBF9DDFCB2AB9F2723BA2BDC894AAFF661F311AF0C471D
+opis=Mapa i trasa do placowki, przelacznik wyceniaj od razu, zakladka Przetargi po terminie, poprawka hasla na ekranie logowania
+podpis=+zgqVhzUVHQeklPJDACiANKroNTD6DWLg2iV+2NjvTrph4g4d7Px3cPv58UJT8xzL0jrjKs8dHv7seHWXp2Eog==
